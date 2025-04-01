@@ -239,41 +239,41 @@ Project: [KDN-AI ESG Portal](https://github.com/Shubham-Bishnoi/KDN-AI-ESG.git)
 ## 📸 Results
 
 ### 🌐 React App Interface
-<img src="./assets/ss/a.  react.png" width="800"/>
+<img src="./assets/ss/react.png" width="800"/>
 <p><i>Main UI to input company name and generate ESG reports</i></p>
 
 ### 🤖 AI Results & ESG Summary
-<img src="./assets/ss/b. ai.png" width="800"/>
+<img src="./assets/ss/ai.png" width="800"/>
 <p><i>Dynamic ESG scores and environmental insights using AI</i></p>
 
 ### 🌳 Biodiversity & Deforestation Dashboard
-<img src="./assets/ss/c. defores.png" width="800"/>
+<img src="./assets/ss/defores.png" width="800"/>
 <p><i>Dashboard showing forest loss and biodiversity impact analysis</i></p>
 
 ### 📄 TNFD Report – Page 1
-<img src="./assets/ss/d.. tnfd1.png" width="800"/>
+<img src="./assets/ss/tnfd1.png" width="800"/>
 <p><i>Explanation of TNFD, methodology, and reporting logic</i></p>
 
 ### 📄 TNFD Report – Page 2
-<img src="./assets/ss/e. tnfd2.png" width="800"/>
+<img src="./assets/ss/tnfd2.png" width="800"/>
 <p><i>Visual ESG summary chart and action steps</i></p>
 
 ### 📊 ESG Report Card (Frontend Output)
-<img src="./assets/ss/f.esg.png" width="800"/>
+<img src="./assets/ss/esg.png" width="800"/>
 <p><i>Frontend-rendered ESG scores with styling</i></p>
 
 ### 📈 Alternative ESG Summary View
-<img src="./assets/ss/g. esg2.png" width="800"/>
+<img src="./assets/ss/esg2.png" width="800"/>
 <p><i>Additional format showing different insights</i></p>
 
 ### 🏠 App Home Screen
-<img src="./assets/ss/h. home.png" width="800"/>
+<img src="./assets/ss/home.png" width="800"/>
 <p><i>Entry point to start generating environmental reports</i></p>
 
 ### 🗺️ Geospatial Split Map View
-<img src="./assets/ss/i. splitmap.png" width="800"/>
+<img src="./assets/ss/splitmap.png" width="800"/>
 <p><i>Compare deforestation side-by-side using satellite data</i></p>
 
 ### 📥 Final Output with Report Download
-<img src="./assets/ss/j .3.png" width="800"/>
+<img src="./assets/ss/3.png" width="800"/>
 <p><i>Final section showing report availability and summary</i></p>
