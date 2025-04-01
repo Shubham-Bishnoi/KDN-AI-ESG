@@ -1,0 +1,61 @@
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environment
+.env
+.env.*
+venv/
+myenv/
+*.egg-info/
+
+# VSCode
+.vscode/
+
+# React
+node_modules/
+build/
+
+# Logs
+*.log
+nohup.out
+
+# MacOS
+.DS_Store
+
+# Streamlit Cache
+.streamlit/config.toml
+~$*
+
+# Models & Data
+models/*.h5
+data/**/*.tif
+data/**/*.zip
+data/**/*.jpg
+data/**/*.json
+
+# Reports
+/data/reports/*.pdf
+
+# FastAPI
+*.db
+
+# Misc
+*.sqlite3
+*.bak
+coverage/
+
+# GitHub
+*.swp
+*.bak
+
+# Outputs
+output/
+service_account.json
+service_account.json
