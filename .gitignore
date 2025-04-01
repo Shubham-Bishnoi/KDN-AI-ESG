@@ -59,3 +59,17 @@ coverage/
 output/
 service_account.json
 service_account.json
+
+biodiversity-ai/public/assets/*.mp4
+
+/models/*.h5
+
+/data/**/*.tif
+
+/data/**/*.jpg
+
+/data/**/*.zip
+
+/data/**/*.json
+
+biodiversity-ai/public/assets/bioloss.mp4
