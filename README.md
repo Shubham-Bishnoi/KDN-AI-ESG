@@ -186,12 +186,6 @@ Body: { image: path/to/image.tif, model: 'deforestation' | 'water' | 'biodiversi
 EE_PROJECT=ee-your-project-id
 ```
 
----
-
-## 🧾 License
-MIT License
-
----
 
 ## 🙏 Acknowledgements
 - Google Earth Engine
@@ -218,14 +212,6 @@ MIT License
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
-
-## 📧 Contact
-**Shubham Bishnoi**  
-[GitHub](https://github.com/Shubham-Bishnoi) | [LinkedIn](https://www.linkedin.com/in/shubhambishnoi29/)  
-Project: [KDN-AI ESG Portal](https://github.com/Shubham-Bishnoi/KDN-AI-ESG.git)
-
----
 
 ## 📌 Appendix
 - `src/backend/server.py`: FastAPI backend
