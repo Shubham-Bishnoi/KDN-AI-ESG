@@ -1,0 +1,57 @@
+{
+    "Amazon Rainforest Foundation": {
+        "Deforestation Risk": 1.0,
+        "Water Pollution Score": 0.0,
+        "Biodiversity Loss Risk": 0.7033725380897522,
+        "Natural Capital Value ($)": 26326.25390625,
+        "Recommendations": [
+            "\ud83c\udf33 Improve forest conservation policies.",
+            "\ud83c\udf0a Reduce industrial water discharge.",
+            "\ud83e\udd9c Increase biodiversity restoration funding."
+        ]
+    },
+    "Global Wetlands Conservation": {
+        "Deforestation Risk": 1.0,
+        "Water Pollution Score": 0.0,
+        "Biodiversity Loss Risk": 0.6207224130630493,
+        "Natural Capital Value ($)": 12678.763671875,
+        "Recommendations": [
+            "\ud83c\udf33 Improve forest conservation policies.",
+            "\ud83c\udf0a Reduce industrial water discharge.",
+            "\ud83e\udd9c Increase biodiversity restoration funding."
+        ]
+    },
+    "AgriCorp": {
+        "Deforestation Risk": 1.0,
+        "Water Pollution Score": 0.0,
+        "Biodiversity Loss Risk": 0.3772810399532318,
+        "Natural Capital Value ($)": 12998.751953125,
+        "Recommendations": [
+            "\ud83c\udf33 Improve forest conservation policies.",
+            "\ud83c\udf0a Reduce industrial water discharge.",
+            "\ud83e\udd9c Increase biodiversity restoration funding."
+        ]
+    },
+    "Urban Developers Ltd": {
+        "Deforestation Risk": 1.0,
+        "Water Pollution Score": 0.0,
+        "Biodiversity Loss Risk": 0.15005549788475037,
+        "Natural Capital Value ($)": 5825.7001953125,
+        "Recommendations": [
+            "\ud83c\udf33 Improve forest conservation policies.",
+            "\ud83c\udf0a Reduce industrial water discharge.",
+            "\ud83e\udd9c Increase biodiversity restoration funding."
+        ]
+    },
+    "EcoPlanet Initiative": {
+        "Deforestation Risk": 1.0,
+        "Water Pollution Score": 0.0,
+        "Biodiversity Loss Risk": 0.6620181798934937,
+        "Natural Capital Value ($)": 16736.26953125,
+        "Recommendations": [
+            "\ud83c\udf33 Improve forest conservation policies.",
+            "\ud83c\udf0a Reduce industrial water discharge.",
+            "\ud83e\udd9c Increase biodiversity restoration funding."
+        ]
+    }
+}

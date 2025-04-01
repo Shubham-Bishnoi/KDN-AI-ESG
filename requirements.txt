@@ -1,0 +1,6 @@
+fpdf
+tensorflow
+opencv-python
+earthengine-api
+geemap
+rasterio
