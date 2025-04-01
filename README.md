@@ -225,7 +225,7 @@ EE_PROJECT=ee-your-project-id
 ## 📸 Results
 
 ### 🌐 React App Interface
-<img src="./assets/ss/react.jpeg" width="800"/>
+<img src="/Users/shubhambishnoi/Desktop/KDN-AI-ESG-biodiversity-ai/assets/ss/react.jpeg" width="800"/>
 <p><i>Main UI to input company name and generate ESG reports</i></p>
 
 ### 🤖 AI Results & ESG Summary
